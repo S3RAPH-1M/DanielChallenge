@@ -1,0 +1,15 @@
+D:\VS-Projects\DanielChallenge\DanielChallenge\bin\Debug\net6.0\DanielChallenge.exe
+D:\VS-Projects\DanielChallenge\DanielChallenge\bin\Debug\net6.0\DanielChallenge.deps.json
+D:\VS-Projects\DanielChallenge\DanielChallenge\bin\Debug\net6.0\DanielChallenge.runtimeconfig.json
+D:\VS-Projects\DanielChallenge\DanielChallenge\bin\Debug\net6.0\DanielChallenge.dll
+D:\VS-Projects\DanielChallenge\DanielChallenge\bin\Debug\net6.0\DanielChallenge.pdb
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.csproj.AssemblyReference.cache
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.AssemblyInfoInputs.cache
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.AssemblyInfo.cs
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.csproj.CoreCompileInputs.cache
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.dll
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\refint\DanielChallenge.dll
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.pdb
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\DanielChallenge.genruntimeconfig.cache
+D:\VS-Projects\DanielChallenge\DanielChallenge\obj\Debug\net6.0\ref\DanielChallenge.dll
